@@ -12,8 +12,8 @@ namespace CourseA4.Forms
     // відображення користувацького інтерфейсу (вкладки, кнопки, текстові поля, таблиці),
     // збір введення користувача та ініціювання дій. Вона делегує більшість логіки презентерам.
     {
-        // --- 1. Поля класса (Элементы управления UI и экземпляры других классов) ---
-        // UI Controls (declared as fields to be accessible throughout the class)
+        // --- 1. поля класу (елементи управління UI та екземпляри інших класів)
+
         private TabControl tabControl;
         private TabPage tabPageSearch;
         private TabPage tabPageAdd;
